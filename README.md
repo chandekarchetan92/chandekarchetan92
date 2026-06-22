@@ -43,19 +43,30 @@
 
 ---
 
-### 📂 Featured Projects
+### 💻 Featured Projects
 
-#### 🛠️ [Project Title One](https://github.com/yourusername/project-one)
-> A brief 1-2 sentence description of what this amazing project does and the value it provides.
-- ⚡ **Tech Stack:** React, Node.js, Express, MongoDB
-- 🌟 **Key Feature:** Live real-time collaboration with WebSockets.
-- 🔗 [Live Demo](https://yourprojectlink.com) | [Source Code](https://github.com/yourusername/project-one)
-
-#### 🚀 [Project Title Two](https://github.com/yourusername/project-two)
-> Another impressive project description showcasing your problem-solving capabilities.
-- ⚡ **Tech Stack:** Next.js, TypeScript, Tailwind CSS, PostgreSQL
-- 🌟 **Key Feature:** Optimized server-side rendering reducing load times by 40%.
-- 🔗 [Live Demo](https://yourprojectlink2.com) | [Source Code](https://github.com/yourusername/project-two)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌌 Project Alpha — E-Commerce Engine</h4>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2g0Y2ptY2VtcTRnY3p1azByYm90ZjFidnp5Yzh3N2FnaDN0MnNsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100%" alt="Project Preview" />
+      <p>A highly scalable e-commerce microservices engine running on Node.js and Docker, optimized for low latency.</p>
+      <p>
+        <a href="#"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square" alt="Live Demo" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ Project Beta — Analytics Dashboard</h4>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FwMHpneXNmdHkyNjZnaWZ5ODFpM2syZDV2dnN5dnZ2bWc5YWtsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlMgcyf8I7m70I0/giphy.gif" width="100%" alt="Dashboard Preview" />
+      <p>Real-time telemetry and cloud data processing pipeline utilizing Python, WebSockets, and React.</p>
+      <p>
+        <a href="#"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square" alt="Live Demo" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
