@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **[Tech/Framework, e.g., Next.js, Go, or Rust]**
 - 👯 I’m looking to collaborate on **Open Source Projects & Innovative Startups**
 - 💬 Ask me about **Web Development, System Design, or Anime 🌸**
-- ⚡ Fun fact **[Add a quirky fun fact here!]**
+- ⚡ Fun fact **Drink coffee to compile code and compile code to buy coffee**
 
 ---
 
