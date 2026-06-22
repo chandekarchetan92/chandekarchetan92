@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chetan Chandekar!
+# 👋 Hi, I'm Chetan Chandekar
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
