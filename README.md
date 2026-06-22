@@ -10,11 +10,11 @@
 
 ✨ **Passionate developer** with a knack for building clean, scalable, and highly interactive digital solutions. I love turning complex problems into beautiful, efficient code.
 
-- 🔭 I’m currently working on E-commerce engine/project head
-- 🌱 I’m currently learning **[Tech/Framework, e.g., Next.js, Go, or Rust]**
+- 🔭 I’m currently working on **E-commerce engine/project head**
+- 🌱 I’m currently learning **Tech/Framework, e.g., Next.js, Go, or Rust**
 - 👯 I’m looking to collaborate on **Open Source Projects & Innovative Startups**
 - 💬 Ask me about **Web Development, System Design, or Anime 🌸**
-- ⚡ Fun fact **Drink coffee to compile code and compile code to buy coffeee**
+- ⚡ Fun fact: **Drink coffee to compile code and compile code to buy coffeee**
 
 ---
 
